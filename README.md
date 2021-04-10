@@ -1,9 +1,4 @@
-# Welcome to my profil
-
-My official account
-
-## Author
-#### About the Author
+### Hello guys 👋
 Hello there, I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python + Django. I’ve been working with various companies and web agencies (And of course i was the only one who worked on this [Project](https://ambassadehaitibresil.org))
 
 If you're interested in partnership opportunities or having me on your project, please email <kesnelsamuel@gmail.com>
