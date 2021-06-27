@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Kesnel Samuel Jean Philippe Github" style="height: auto; width:100%;"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Kesnel Samuel Jean Philippe Github" style="height: auto; width:100wh"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Kesnel Samuel Jean Philippe Github" width="100%"/>
 
 ### Hello guys 👋
 I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python + Django.
