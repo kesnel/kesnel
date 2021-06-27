@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5">via GIPHY</a></p>
+
 ### Hello guys 👋
 I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python + Django.
 
