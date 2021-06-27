@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="MarineGEO circle logo" style="height: auto; width:100%;"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="MarineGEO circle logo" style="height: auto; width:100%;"/>
 
 ### Hello guys 👋
 I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python + Django.
