@@ -38,7 +38,7 @@ If you're interested in partnership opportunities or having me on your project, 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=F14d50&style=flat" alt="Kesnel Samuel Badge on github" /> 
-  <img src="https://img.shields.io/twitter/follow/kesnelsamuel?&style=flat-square" alt="Kesnel Samuel Badge on github" /> 
+  <img src="https://img.shields.io/twitter/follow/kesnelsamuel?color=blue&style=flat-square" alt="Kesnel Samuel Badge on github" /> 
   <img src="https://img.shields.io/youtube/channel/subscribers/UCify5tPHQOC21iPnc8RBZ9A?label=Youtube%20Subscribers&style=flat-square" alt="Kesnel Samuel Badge on github" /> 
   <img src="https://img.shields.io/github/followers/kesnel?label=Github%20Followers&style=flat-square" alt="Kesnel Samuel Badge on github" /> 
 </p>
