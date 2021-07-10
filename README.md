@@ -36,5 +36,7 @@ If you're interested in partnership opportunities or having me on your project, 
 
 #### Insights
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=30AACC&style=flat" alt="didierganthier" /> </p>
-![Twitter Follow](https://img.shields.io/twitter/follow/kesnelsamuel?style=social)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=30AACC&style=flat" alt="Kesnel Samuel Badge on github" /> 
+  <img src="https://img.shields.io/twitter/follow/kesnelsamuel?style=social" alt="Kesnel Samuel Badge on github" /> 
+</p>
