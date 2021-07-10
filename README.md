@@ -33,6 +33,9 @@ If you're interested in partnership opportunities or having me on your project, 
 <a href="http://github.com/kesnel" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-512.png" width="30">
 </a>
+<a href="https://open.spotify.com/user/21z2litubfg2vur77w7pedqqy?si=0eb46e09474f4460" target="_blank">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Spotify-1024.png" width="30">
+</a>
 
 #### Insights
 
