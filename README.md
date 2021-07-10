@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=30AACC&style=flat" alt="didierganthier" /> </p>
-
 <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Kesnel Samuel Jean Philippe Github" width="100%"/>
 
 ### Hello guys 👋
@@ -35,3 +33,7 @@ If you're interested in partnership opportunities or having me on your project, 
 <a href="http://github.com/kesnel" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-512.png" width="30">
 </a>
+
+#### Insight
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=30AACC&style=flat" alt="didierganthier" /> </p>
