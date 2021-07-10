@@ -24,11 +24,11 @@ If you're interested in partnership opportunities or having me on your project, 
 <a href="https://www.twitter.com/kesnelsamuel/" target="_blank">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-512.png" width="30">
 </a>
-<a href="https://www.linkedin.com/in/kesnelsamuel" target="_blank">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="30">
-</a>
 <a href="https://www.twitch.tv/kesnel" target="_blank">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-512.png" width="30">
+</a>
+<a href="https://www.linkedin.com/in/kesnelsamuel" target="_blank">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="30">
 </a>
 <a href="http://github.com/kesnel" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-512.png" width="30">
