@@ -34,6 +34,6 @@ If you're interested in partnership opportunities or having me on your project, 
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-512.png" width="30">
 </a>
 
-#### Insight
+#### Insights
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=30AACC&style=flat" alt="didierganthier" /> </p>
