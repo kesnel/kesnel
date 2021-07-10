@@ -15,6 +15,9 @@ If you're interested in partnership opportunities or having me on your project, 
 <a href="https://www.youtube.com/channel/UCify5tPHQOC21iPnc8RBZ9A" target="_blank">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" width="30">
 </a>
+<a href="http://wa.me//50939058959" target="_blank">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="30">
+</a>
 <a href="https://www.pinterest.com/kesnelsamuel/" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/pinterest-sociocon.png" width="30">
 </a>
@@ -26,9 +29,6 @@ If you're interested in partnership opportunities or having me on your project, 
 </a>
 <a href="https://www.twitch.tv/kesnel" target="_blank">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-512.png" width="30">
-</a>
-<a href="http://wa.me//50939058959" target="_blank">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" width="30">
 </a>
 <a href="http://github.com/kesnel" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-512.png" width="30">
