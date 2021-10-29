@@ -1,5 +1,4 @@
-<!-- <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Kesnel Samuel Jean Philippe Github." width="100%" height="a" /> -->
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Kesnel Samuel Jean Philippe Github." width="100%" height="a" />
 
 ### Hello guys 👋
 I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python/Django..
