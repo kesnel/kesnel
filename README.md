@@ -38,7 +38,6 @@ If you're interested in partnership opportunities or having me on your project, 
 </a>
 
 #### Insights
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kesnel&label=Profile%20views&color=C54421" alt="Kesnel Samuel Badge on github" /> 
   <img src="https://img.shields.io/twitter/follow/kesnelsamuel?label=Followers%20on%20twitter&color=C54421&style=flat-square" alt="Kesnel Samuel Badge on github page" /> 
