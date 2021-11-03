@@ -3,7 +3,7 @@
 ### Hello guys 👋
 I'm [Kesnel Samuel](https://kesnelsamuel.com), I'm a Software Engineer located in Haiti, My area of specialty is Web development, I specialize in HTML5 + CSS3, JavaScript & jQuery, Python/Django..
 
-If you're interested in partnership opportunities or having me on your project, please email <kesnelsamuel@gmail.com>
+If you're interested in partnership opportunities or having me on your project, please email <kesnelsamuel@gmail.com>,
 
 #### Follow me on
 <a href="https://facebook.com/kesnelsjp/" target="blank">
